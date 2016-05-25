@@ -1,0 +1,21 @@
+{
+  "name": "thriller_books",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "catfriend"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
