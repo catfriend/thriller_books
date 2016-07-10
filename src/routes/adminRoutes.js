@@ -7,18 +7,21 @@ var mongodb = require('mongodb').MongoClient;
         title: 'Red Dragon',
         genre: ' Crime Thriller',
         author: 'Thomas Harris',
+        bookId: 28877,
         read: false
         },
     {
         title: 'The Silence of the Lambs',
         genre: ' Crime Thriller',
         author: 'Thomas Harris',
+        bookId: 23807,
         read: false
         },
     {
         title: 'The Firm',
         genre: 'Legal Thriller',
         author: 'John Grisham',
+        bookId: 5358,
         read: false
         },
     {
